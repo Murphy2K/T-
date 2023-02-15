@@ -1,3 +1,8 @@
+#See väike programm arvutab ülaframuugi prosside asukohad.
+#Pea meeles see arvutab prossi vahed VÕRDSETE vahedega.
+#Autor: Heiko
+#
+
 Pikkus = int(input("Anna framuugi pikkus mm: "))
 r = int(input("Mitu R on: "))
 mitu = r - 1 
